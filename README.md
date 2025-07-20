@@ -1,3 +1,6 @@
+# Astro_Calculations
+Code for calculating accurate KP charts
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/diliprk/VedicAstro/main/VedicAstroLogo.png?raw=True" alt="Logo">
     <p align="center">
